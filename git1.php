@@ -6,4 +6,5 @@ echo "test";
 echo "ttt";
 echo "change2";
 echo "ggyy";
+echo "merge test";
 ?>
